@@ -1,1 +1,1 @@
-# Predicting-Boston-Housing-Prices
+# This is the predicting Boston Housing Prices Project
